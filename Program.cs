@@ -8,7 +8,7 @@ namespace Practical
         {
             Console.WriteLine("Hello this is a practical repo.");
             Console.WriteLine("Good day sir.");
-            Console.WrteLine("You good?");
+            Console.WriteLine("You good?");
         }
     }
 }
